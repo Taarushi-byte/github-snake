@@ -1,3 +1,3 @@
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/Taarushi-byte/github-snake/blob/output/snake.svg)
+![snake gif](https://raw.githubusercontent.com/Taarushi-byte/github-snake/output/snake-dark.svg)
